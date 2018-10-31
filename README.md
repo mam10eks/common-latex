@@ -1,6 +1,10 @@
 # Common Latex
 
-My personal common latex configs. Used as submodule in other latex-documents.
+My personal common latex configs.
+
+Used as submodule in other latex-documents.
+
+A latex starter (with other convenience helpers) could be found in [mam10eks/latex-archetype](https://github.com/mam10eks/latex-archetype).
 
 ## Usage
 
